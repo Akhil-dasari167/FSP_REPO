@@ -55,4 +55,4 @@ fruits = ['apple', 'banana', 'cherry', 'date', 'elderberry']
 second_fruit = fruits.copy()
 print(second_fruit)
 del fruits[0]
-print(fruits)   master 
+print(fruits)   
